@@ -151,3 +151,10 @@ header {
         }
     }
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      width: 400px;
+      margin: auto;
+    }
+  }
